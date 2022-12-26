@@ -1,0 +1,96 @@
+@font-face {
+    font-family: flaticon;
+    src: url(Flaticon.eot);
+    src: url(Flaticond41d.eot?#iefix) format("embedded-opentype"), url(Flaticon.woff) format("woff"), url(Flaticon.ttf) format("truetype"), url(Flaticon.svg#Flaticon) format("svg");
+    font-weight: 400;
+    font-style: normal
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    @font-face {
+        font-family: flaticon;
+        src: url(Flaticon.svg#Flaticon) format("svg")
+    }
+}
+
+[class^=flaticon-]:before,
+[class*=" flaticon-"]:before,
+[class^=flaticon-]:after,
+[class*=" flaticon-"]:after {
+    font-family: Flaticon;
+    font-size: auto;
+    font-style: normal;
+    margin-left: 0
+}
+
+.flaticon-arrow:before {
+    content: "\f100"
+}
+
+.flaticon-forward:before {
+    content: "\f101"
+}
+
+.flaticon-commerce-1:before {
+    content: "\f102"
+}
+
+.flaticon-connection-1:before {
+    content: "\f103"
+}
+
+.flaticon-book:before {
+    content: "\f104"
+}
+
+.flaticon-social:before {
+    content: "\f105"
+}
+
+.flaticon-graphic:before {
+    content: "\f106"
+}
+
+.flaticon-commerce:before {
+    content: "\f107"
+}
+
+.flaticon-connection:before {
+    content: "\f108"
+}
+
+.flaticon-building:before {
+    content: "\f109"
+}
+
+.flaticon-three:before {
+    content: "\f10a"
+}
+
+.flaticon-up-arrow:before {
+    content: "\f10b"
+}
+
+.flaticon-time:before {
+    content: "\f10c"
+}
+
+.flaticon-interface:before {
+    content: "\f10d"
+}
+
+.flaticon-cup:before {
+    content: "\f10e"
+}
+
+.flaticon-people-1:before {
+    content: "\f10f"
+}
+
+.flaticon-people:before {
+    content: "\f110"
+}
+
+.flaticon-bars:before {
+    content: "\f111"
+}
